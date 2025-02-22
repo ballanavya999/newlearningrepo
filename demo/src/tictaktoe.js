@@ -12,7 +12,7 @@ function Square(){
 export default function Tictaktoe(){
     return(
         <div>
-            <h1>Tic Tak Toe Game</h1>
+            <h1>Tic Tak Toe Game 2nd commit</h1>
             <div className='container'>
             <Square />
             <Square />
